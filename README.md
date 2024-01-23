@@ -1,1 +1,3 @@
-# magsafe_watch_ring_charging_stand
+# MagSafe and Pixel Watch 2 Charging Stand
+
+![Phone Stand](Images/charging_stand.jpg)
